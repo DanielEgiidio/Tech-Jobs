@@ -13,7 +13,7 @@ import Card from "./Card.vue";
             href="jobs.html"
             class="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
           >
-            Buscar jobs
+            Buscar vagas
           </a>
         </Card>
         <Card bg="bg-[#1d72cb]/20">
@@ -25,7 +25,7 @@ import Card from "./Card.vue";
             href="add-job.html"
             class="inline-block bg-[#1d72cb] text-white rounded-lg px-4 py-2 hover:bg-[#1d72cb]/85"
           >
-            Adicionar jobs
+            Adicionar vaga
           </a>
         </Card>
       </div>
