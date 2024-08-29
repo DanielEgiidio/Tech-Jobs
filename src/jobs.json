@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "title": "Desenvolvedor Sênior Vue.js",
+      "type": "Tempo Integral",
+      "location": "São Paulo, SP",
+      "description": "Estamos em busca de um Desenvolvedor Front-End talentoso para se juntar à nossa equipe em São Paulo, SP. O candidato ideal deve ter fortes habilidades em HTML, CSS e JavaScript, com experiência em frameworks modernos de JavaScript, como Vue ou Angular.",
+      "salary": "R$7.500 - R$8.500/mês",
+      "company": {
+        "name": "NewTek Soluções",
+        "description": "A NewTek Soluções é uma empresa líder em tecnologia especializada em desenvolvimento web e soluções digitais. Temos orgulho de entregar produtos e serviços de alta qualidade aos nossos clientes, promovendo um ambiente de trabalho colaborativo e inovador.",
+        "contactEmail": "contato@teksolucoes.com",
+        "contactPhone": "11-5555-5555"
+      },
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Engenheiro Front-End (React)",
+      "type": "Tempo Integral",
+      "description": "Junte-se à nossa equipe como Desenvolvedor Front-End no ensolarado Rio de Janeiro, RJ. Procuramos um indivíduo motivado com paixão por criar aplicações web bonitas e responsivas. Experiência com princípios de design UI/UX e atenção aos detalhes são altamente desejáveis.",
+      "location": "Rio de Janeiro, RJ",
+      "salary": "R$6.000 - R$7.000/mês",
+      "company": {
+        "name": "Veneer Soluções",
+        "description": "A Veneer Soluções é uma agência criativa especializada em design digital e desenvolvimento. Nossa equipe é dedicada a ultrapassar os limites da criatividade e inovação para entregar resultados excepcionais aos nossos clientes.",
+        "contactEmail": "contato@veneersolucoes.com",
+        "contactPhone": "21-5555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Desenvolvedor Java",
+      "type": "Tempo Integral",
+      "description": "Você é apaixonado por desenvolvimento back-end? Junte-se à nossa equipe em Belo Horizonte, MG, e trabalhe em projetos empolgantes que fazem a diferença. Oferecemos remuneração competitiva e um ambiente de trabalho colaborativo onde suas ideias são valorizadas.",
+      "location": "Belo Horizonte, MG",
+      "salary": "R$6.500 - R$7.500/mês",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "A Dolor Cloud é uma empresa líder em tecnologia especializada em soluções digitais para negócios de todos os tamanhos. Com foco em inovação e satisfação do cliente, estamos comprometidos em entregar produtos e serviços de ponta.",
+        "contactEmail": "contato@dolorcloud.com",
+        "contactPhone": "31-5555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Desenvolvedor Python",
+      "type": "Meio Período",
+      "description": "Junte-se à nossa equipe como Desenvolvedor Back-End em Salvador, BA. Estamos à procura de um indivíduo autodidata com paixão por criar experiências de usuário envolventes. Esta posição oferece horas flexíveis e a oportunidade de trabalhar remotamente.",
+      "location": "Salvador, BA",
+      "salary": "R$3.500 - R$4.500/mês",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "A Alpha Elite é uma startup dinâmica especializada em marketing digital e desenvolvimento web. Estamos comprometidos em fomentar um ambiente de trabalho diverso e inclusivo, onde a criatividade e a inovação prosperam.",
+        "contactEmail": "contato@alphaelite.com",
+        "contactPhone": "71-5555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Desenvolvedor Full Stack (React)",
+      "type": "Tempo Integral",
+      "description": "Oportunidade empolgante para Desenvolvedor Full Stack em Curitiba, PR. Estamos à procura de um indivíduo talentoso com paixão por construir aplicações web elegantes e escaláveis. Junte-se à nossa equipe e faça a diferença!",
+      "location": "Curitiba, PR",
+      "salary": "R$8.000 - R$9.000/mês",
+      "company": {
+        "name": "Browning Tecnologias",
+        "description": "A Browning Tecnologias é uma empresa de tecnologia em rápido crescimento, especializada em soluções de e-commerce. Oferecemos um ambiente de trabalho dinâmico e colaborativo, onde os funcionários são incentivados a pensar de forma criativa e inovar.",
+        "contactEmail": "contato@browningtech.com",
+        "contactPhone": "41-5555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Desenvolvedor Mobile (React Native)",
+      "type": "Tempo Integral",
+      "description": "Junte-se à nossa equipe como Desenvolvedor Mobile em Porto Alegre, RS. Estamos à procura de um indivíduo habilidoso e entusiasmado para nos ajudar a criar soluções web inovadoras. Salário competitivo e excelente pacote de benefícios disponíveis.",
+      "location": "Porto Alegre, RS",
+      "salary": "R$9.000 - R$10.000/mês",
+      "company": {
+        "name": "Port Solutions",
+        "description": "A Port Solutions é uma empresa líder em tecnologia especializada em desenvolvimento de software e marketing digital. Estamos comprometidos em fornecer aos nossos clientes soluções de ponta e aos nossos funcionários um ambiente de trabalho de apoio e recompensador.",
+        "contactEmail": "contato@portsolutions.com",
+        "contactPhone": "51-5555-5555"
+      }
+    }
+  ]
+}
