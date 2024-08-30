@@ -31,10 +31,10 @@ const jobs = ref(jobData.jobs);
   </section>
 
   <section v-if="showButton" class="m-auto max-w-lg my-10 px-6">
-    <a
-      href="/jobs"
+    <RouterLink
+      to="/jobs"
       class="block bg-[#1d72cb] text-white text-center py-4 px-6 rounded-xl hover:bg-[#1d72cb]/90"
-      >Ver todas as vagas</a
-    >
+      >Ver todas as vagas
+    </RouterLink>
   </section>
 </template>

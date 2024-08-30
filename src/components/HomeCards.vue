@@ -9,24 +9,24 @@ import Card from "./Card.vue";
         <Card>
           <h2 class="text-2xl font-bold">Para Desenvolvedores</h2>
           <p class="mt-2 mb-4">Encontre a sua esperada oportunidade hoje.</p>
-          <a
-            href="jobs.html"
+          <RouterLink
+            to="/jobs"
             class="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
           >
             Buscar vagas
-          </a>
+          </RouterLink>
         </Card>
         <Card bg="bg-[#1d72cb]/20">
           <h2 class="text-2xl font-bold">Para empresas</h2>
           <p class="mt-2 mb-4">
             Cadastre a vaga para encontrar o desenvolvedor ideal.
           </p>
-          <a
-            href="add-job.html"
+          <RouterLink
+            to="/jobs/add"
             class="inline-block bg-[#1d72cb] text-white rounded-lg px-4 py-2 hover:bg-[#1d72cb]/85"
           >
             Adicionar vaga
-          </a>
+          </RouterLink>
         </Card>
       </div>
     </div>

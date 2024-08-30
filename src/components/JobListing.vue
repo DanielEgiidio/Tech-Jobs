@@ -66,12 +66,12 @@ const truncatedDescription = computed(() => {
           </svg>
           {{ job.location }}
         </div>
-        <a
-          :href="'/jobs/' + job.id"
+        <RouterLink
+          :to="'/jobs/' + job.id"
           class="h-[36px] bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg text-center text-sm"
         >
           Saber mais
-        </a>
+        </RouterLink>
       </div>
     </div>
   </div>
