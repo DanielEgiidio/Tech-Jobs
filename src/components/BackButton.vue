@@ -25,7 +25,7 @@ import { RouterLink } from "vue-router";
           <path d="M16 12H8" />
           <path d="m12 8-4 4 4 4" />
         </svg>
-        Back to Job Listings
+        Voltar a lista de vagas
       </RouterLink>
     </div>
   </section>
