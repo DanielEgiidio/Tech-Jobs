@@ -83,6 +83,20 @@
         "contactEmail": "contato@portsolutions.com",
         "contactPhone": "51-5555-5555"
       }
+    },
+    {
+      "title": "Engenheiro Front-End (React)",
+      "type": "Tempo Integral",
+      "location": "Rio de Janeiro, RJ",
+      "description": "Junte-se à nossa equipe como Desenvolvedor Front-End no ensolarado Rio de Janeiro, RJ. Procuramos um indivíduo motivado com paixão por criar aplicações web bonitas e responsivas. Experiência com princípios de design UI/UX e atenção aos detalhes são altamente desejáveis.",
+      "salary": "R$6.000 - R$7.000/mês",
+      "company": {
+        "name": "Veneer Soluções",
+        "description": "A Veneer Soluções é uma agência criativa especializada em design digital e desenvolvimento. Nossa equipe é dedicada a ultrapassar os limites da criatividade e inovação para entregar resultados excepcionais aos nossos clientes.",
+        "contactEmail": "contato@veneersolucoes.com",
+        "contactPhone": "21-5555-5555"
+      },
+      "id": "2b45"
     }
   ]
 }
