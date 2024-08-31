@@ -1,33 +1,73 @@
-# job-portal
+<h1 align="center">
+  Plann.er
+</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielegiidio/Tech-Jobs">
 
-## Recommended IDE Setup
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/danielegiidio/Tech-Jobs" />
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielegiidio/Tech-Jobs">
+  
+  <a href="https://github.com/danielegiidio/Tech-Jobs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielegiidio/Tech-Jobs">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+</p>
 
-## Customize configuration
+<p align="center" >
+  <img src="https://i.ibb.co/2kH3FBg/Captura-de-tela-2024-08-30-210239.png" alt="Capa do projeto" />
+</p>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 💻 Sobre
 
-```sh
-npm install
-```
+Tech Jobs é um case simples de uma aplicação de vagas de tecnólogia, apenas para carater de estudo, nessa aplicação você pode:
 
-### Compile and Hot-Reload for Development
+- Visulizar todas as vagas relacionadas a tecnologia
+- Adicionar, editar ou deletar uma vaga.
 
-```sh
-npm run dev
-```
+## Listagem das vagas
 
-### Type-Check, Compile and Minify for Production
+<p align="center" >
+	<img src="https://i.ibb.co/QP1r3nx/Captura-de-tela-2024-08-30-205751.png" alt="listagem das vagas">
+</p>
 
-```sh
-npm run build
-```
+## Detalhes da vaga
+
+<p align="center" >
+	<img src="https://i.ibb.co/R7jp4P4/Captura-de-tela-2024-08-30-205856.png" alt="detalhes da vaga">
+</p>
+
+## Criação ou edição da vaga
+
+<p align="center" >
+	<img src="https://i.ibb.co/RhY9RDp/Captura-de-tela-2024-08-30-205801.png" alt="Captura-de-tela-2024-08-30-205801" alt="Adição ou edição da vaga">
+</p>
+
+## ⚙ Setup
+
+A aplicação em live serve apenas de mostragem porém como o banco de dados foi criado apenas com json server para carater de estudo, então se você tiver a intenção de rodar a aplicação utilizando de todos os seus recursos, deverá portanto baixar, clonar ou fazer fork no repositório, o arquivo json já está no repositório então você não precisa criar um, só ir no terminal e rodar o npm run server e depois npm run dev.
+
+## 🛠 Technologies
+
+As seguintes principais ferramentas foram usadas na construção do projeto:
+
+- **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[Vuejs](https://vuejs.org/)**
+- **[Vue Router](https://router.vuejs.org/)**
+- **Json Server**
+- **[Vite](https://vitejs.dev/guide/)**
+- **[Axios](https://axios-http.com/ptbr/docs/intro)**
+- **[Tailwind](https://tailwindcss.com/)**
+
+
+> Para mais detalhes das dependências gerais da aplicação veja o arquivo [package.json](./package.json)
+
+## 📝 License
+
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações
+
