@@ -1,5 +1,5 @@
 <h1 align="center">
-  Plann.er
+  Tech Jobs
 </h1>
 
 <p align="center">
